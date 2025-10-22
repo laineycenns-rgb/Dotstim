@@ -12,7 +12,7 @@ These trials appear equivalent to the trials per condition of the coherence leve
 
 ### Independent Variables
 
-#### Coherence Level: 0.05, 0.1, 0.2, 0.4, 0.8 (proportion of dots moving in the same direction)
+#### Coherence Level: 0.0, 0.1, 0.2, 0.4, 0.8 (proportion of dots moving in the same direction)
 #### Direction: Left (180°) or Right (0°) (from center)
 
 ### Dependent Variables
@@ -30,6 +30,11 @@ These trials appear equivalent to the trials per condition of the coherence leve
 2. Dot motion display (until response)
 3. Confidence rating screen (1-4)
 4. Inter-trial interval (0.5 seconds)
+
+#### 12 trials = 1 repetition × 6 coherence levels × 2 directions 
+#### 60 trials = 5 repetitions × 6 coherence levels × 2 directions = 60 trials
+#### 120 trials = 10 repetitions × 6 coherence levels × 2 directions = 120 trials
+#### 180 trials = 15 repetitions × 6 coherence levels × 2 directions = 180 trials
 
 #### Data Output
 File Format: Excel file (.xlsx)
