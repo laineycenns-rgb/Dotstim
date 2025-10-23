@@ -2,6 +2,20 @@
 ## Overview
 This psychophysical experiment measures participants' ability to detect motion direction in a field of moving dots. Participants indicate whether a collection of moving dots moves left, right, or in some trials, neither, with those appearing as a collection of random directions. After each trial, participants rate their confidence in their response.
 
+## Running the Experiment
+### Step 1: Launch the Script
+random_dot_motion_experiment.py
+### Step 2: Dialog Box
+Participant number: []
+Age: []
+Number of trials: Choose from 12, 60, 120, or 180 trials
+### Step 3: On Screen Participant Name Entry  
+Type first 4 letters of last name + last 2 digits of birth year (eg. ENNS03)  
+Use BACKSPACE to delete mistakes  
+Press RETURN when finished
+### Step 4: Follow On-Screen Instructions  
+The experiment will guide participants through the task.
+
 ## Experiment Design
 ### Trial Types:
 
@@ -48,5 +62,8 @@ SPACEBAR [] Random motion
 #### 180 trials = 15 repetitions × 6 coherence levels × 2 directions
 
 #### Data Output
-File Format: Excel file (.xlsx)
-Filename: [P_name]_random_dot_motion.xlsx
+File Format: Excel file (.xlsx)  
+Filename: [P_name]_random_dot_motion.xlsx  
+Your csv file will organize data like this:  
+<img width="1398" height="227" alt="Screenshot 2025-10-23 at 4 16 31 PM" src="https://github.com/user-attachments/assets/0f94cb31-363e-41c0-97d6-3d67de518dc7" />
+
